@@ -1,0 +1,19 @@
+body {
+background-color: rgb(199, 130, 65);
+}
+
+#m-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: rgb(123, 32, 32);
+    background-color: bisque;
+    background-repeat: no-repeat;
+}
+.info {
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.title {
+    color: rgb(123, 32, 32);
+    font-family: sans-serif;
+}
